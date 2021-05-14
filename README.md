@@ -13,9 +13,11 @@ I'm going to graduate on 2022. I'm intrested in computer science, programming, s
 <h3>🛠 Tech Stack</h3>
 
 - Java
-- Spring-boot
+- Spring-boot | Maven
+- PostgreSQL
+- Git
 
-I'm using IntelliJ, android studio, POSTGRESQL, git ...
+I'm using IntelliJ, android studio, VSC ...
 
 Basics of:
 - JavaScript , TypeScript
