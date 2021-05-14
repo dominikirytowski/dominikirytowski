@@ -5,7 +5,7 @@
 <h3 align="center">Spec: IT systems engineering</h3>
 
 <h3> About Me </h3>
-Hi, my name is Dominik Irytowski
+Hi, my name is Dominik Irytowski.
 
 I'm going to graduate on 2022. I'm intrested in computer science, programming, sport and many more.
 
