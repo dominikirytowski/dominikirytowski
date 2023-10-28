@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">Student at PWSZ Tarnów</h3>
+<h3 align="center">Student at Politechnika Krakowska, Java Software Engineer at Grid Dynamics</h3>
 <h3 align="center">Subject: IT</h3>
-<h3 align="center">Spec: IT systems engineering</h3>
+<h3 align="center">Spec: Cybersecurity</h3>
 
 <h3> About Me </h3>
 Hi, my name is Dominik Irytowski.
 
-I'm going to graduate on 2022. I'm intrested in computer science, programming, sport and many more.
+I graduated It systems engineering. I'm intrested in computer science, programming, sport and many more.
 
 
 <h3>🛠 Tech Stack</h3>
